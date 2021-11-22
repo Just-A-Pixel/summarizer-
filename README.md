@@ -8,6 +8,8 @@ Presenting to you, Summarizer.With the help of this application one can easily g
 ## link to repository of backend
 https://github.com/Arkajit-techie/summariser_api
 
+## link to build project
+https://summarizer.netlify.app/
 
 ## Steps
 
